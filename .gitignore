@@ -1,0 +1,7 @@
+__pycache__
+virtualenv/
+*.swp
+*.pyc
+*.swo
+UML/
+yt2embed/
